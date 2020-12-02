@@ -1,0 +1,36 @@
+//basics
+
+*{
+    font-family: Sitka Heading, sans-serif;
+}
+
+.page-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr auto;
+    grid-template-rows: 1fr 1fr 1fr;
+    text-align: center;
+}
+
+//navbar
+.navbar-container{
+    grid-column: 3;
+    grid-row: 1 / 4;
+    display: flex;
+    flex-direction: column;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: 1fr;
+    background-color:#293343;
+    color: #ffffff;
+    justify-content: space-between;
+}
+
+.h3-nav{
+    
+    font-weight: bold;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    cursor: progress;
+    margin: auto;
+    padding: 115px 50px 115px 50px;
+
+}
