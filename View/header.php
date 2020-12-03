@@ -8,7 +8,7 @@
 
     <!-- Links -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-        <link rel='stylesheet' href="./View/CSS/custom-styles.css">
+        <link rel='stylesheet' href="./View/CSS/custom-styles1.css">
     <!-- Links -->
 
     <!-- Scripts -->
