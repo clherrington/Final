@@ -2,6 +2,10 @@
   font-family: Sitka Heading, sans-serif;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .page-grid {
   display: -ms-grid;
   display: grid;
