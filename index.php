@@ -5,6 +5,6 @@
 <!-- Left side of the home page -->
     <div class= 'left-grid'>
         <div class= 'left-bg'> 
-            <a class= 'hello'>Welcome</a>
+            <h3 class= 'hello no-line-link'>Welcome</h3>
         </div>
     </div>

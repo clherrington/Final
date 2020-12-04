@@ -7,6 +7,10 @@ body{
     min-height: 100vh;
 }
 
+.no-line-link{
+    text-decoration: none !important;
+  }
+
 .page-grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 85px;
@@ -51,7 +55,7 @@ body{
 
 }
 .left-bg{
-    grid-column: 1 / 3;
+    grid-column: 1 / 4;
     grid-row: 1 / -1;
     display: grid;
     grid-template-columns: 1fr;
@@ -66,4 +70,5 @@ body{
     color: white;
     font: bold;
     font-size: 10ch;
+    animation: infinite;
 }
